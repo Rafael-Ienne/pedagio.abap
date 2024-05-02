@@ -17,4 +17,5 @@ Uma empresa do ramo de concessionária de rodovias deseja fazer a gestão de cob
 - Dicionário de dados(SE11);
 - Módulos de função(SE37);
 - Reports;
+- ABAP objects(SE24);
 - ALV OO.
