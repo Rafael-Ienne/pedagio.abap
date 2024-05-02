@@ -12,3 +12,9 @@ Uma empresa do ramo de concessionária de rodovias deseja fazer a gestão de cob
 - O usuário informa o tipo de veículo, placa, cobrador e forma de pagamento;
 - O sistema calcula o valor da cobrança de acordo com a categoria de veículo;
 - O sistema exige o comprovante de pagamento de pedágio.
+
+## Conhecimentos aplicados
+- Dicionário de dados(SE11);
+- Módulos de função(SE37);
+- Reports;
+- ALV OO.
