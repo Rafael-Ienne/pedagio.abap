@@ -21,5 +21,12 @@ Uma empresa do ramo de concessionária de rodovias deseja fazer a gestão de cob
 - ALV OO.
 
 ## Demonstrações
-### Tela de cobrança e geração de cobrança
+### Tela de cobrança e geração de comprovante
+![Tela de cobrança e geração de comprovante](https://raw.githubusercontent.com/Rafael-Ienne/pedagio.abap/main/demonstracoes/tela_de_selecao_pedagio_e_formulario.png)
+### Navegação da tela de cobrança de pedágio para a tela de seleção do relatório de comprovantes
+![Navegação da tela de cobrança de pedágio para a tela de seleção do relatório de comprovantes](https://raw.githubusercontent.com/Rafael-Ienne/pedagio.abap/main/demonstracoes/tela_cobranca_para_relatorio.png)
+### Navegação da tela de seleção do relatório de comprovantes para a tela de cobrança de pedágio
+![Navegação da tela de seleção do relatório de comprovantes para a tela de cobrança de pedágio](https://raw.githubusercontent.com/Rafael-Ienne/pedagio.abap/main/demonstracoes/tela_relatorio_para_cobranca.png)
+### Geração de ALV 
+![Geração de ALV](https://raw.githubusercontent.com/Rafael-Ienne/pedagio.abap/main/demonstracoes/tela_selecao_relatorio_para_alv.png)
 
