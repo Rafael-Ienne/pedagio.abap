@@ -133,7 +133,7 @@ CLASS ZCLPEDAGIOABAP85 IMPLEMENTATION.
           / 'SÃO PAULO', 'KM365',
           / me->data, me->hora,'Recibo:',me->recibo,
           / 'Operador:', me->nome_operador, 'Categoria:', me->categoria_veiculo,
-          / 'Valor pago:', me->valor, 'F. Pagtp.:', me->forma_pagamento,
+          / 'Valor pago:', me->valor, 'F. Pagto.:', me->forma_pagamento,
           / 'PLACA:', me->placa.
 
   ENDMETHOD.
